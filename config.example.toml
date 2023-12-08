@@ -1,0 +1,6 @@
+prefix = "?"
+token = ""
+extensions = []
+
+[database]
+dsn = "postgres://name:pass@ip:port/db"
